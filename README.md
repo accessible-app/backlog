@@ -1,6 +1,6 @@
 # Collecting ideas for accessible-app.com
 
-Please use the Issues for filing and commenting ideas.
+**[Please use the Issues for filing and commenting ideas.](https://github.com/accessible-app/backlog/issues)**
 
 ## What's accessible-app.com?
 
