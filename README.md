@@ -4,7 +4,7 @@
 
 ## What's accessible-app.com?
 
-In lack of a better comparison, todomvc.com, but for web accessibility and and a showcase on how to solve accessibility problems in different Javascript frameworks.
+In lack of a better comparison: A project like todomvc.com, but for web accessibility and and a showcase on how to solve accessibility problems in different Javascript frameworks.
 
 I'm aiming to build this project in the open and blog about it:
 
