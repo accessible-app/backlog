@@ -10,3 +10,4 @@ I'm aiming to build this project in the open and blog about it:
 
 * [Very first steps](https://marcus.io/blog/a11y-app-very-first-steps)
 * [Further steps togehter](https://marcus.io/blog/a11y-app-further-steps-together)
+* [A specific app idea](https://marcus.io/blog/a11y-app-specific-app-idea)
